@@ -1,0 +1,11 @@
+Hi,
+
+For 1, Why do you choose this framework/language?
+    I complete this task with Robotium framework, Because it is easy to Achieve these 3 test cases. and it does not involve other system app of mobile, so it is not necessary to use UIautomator framework. And I choose Java language is just I am familiar with it than other language.
+
+For 2, Environment setup:
+
+import JAR:robotium-solo-5.2.1.jar
+
+
+For 3, I have recorded a video when running cases (testCase_video.mp4)
